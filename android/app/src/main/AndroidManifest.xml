@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.codelab1_wisata_bandung">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="codelab1_wisata_bandung"
+        android:label="Wisata_Bandung App"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

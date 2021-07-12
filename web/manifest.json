@@ -1,6 +1,6 @@
 {
-    "name": "codelab1_wisata_bandung",
-    "short_name": "codelab1_wisata_bandung",
+    "name": "wisata_bandung",
+    "short_name": "wisata_bandung",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
